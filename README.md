@@ -3,7 +3,7 @@ Assignment for Program Ellective
 
 使用的技术：SpringBoot + Vue
 
-大文件都放到大文件这个文件夹下！！！
+大文件自己本地建一个文件夹，自己写.gitignore，不要上传到仓库！
 
 每次提价都必须详细写明提交信息，否则无法追溯
 
