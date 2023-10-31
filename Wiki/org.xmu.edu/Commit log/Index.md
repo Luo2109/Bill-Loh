@@ -4,13 +4,13 @@
 
 ### Version 1
 
-[QJY]()
+[QJY](https://github.com/3checktheerror/spookify/blob/master/Wiki/org.xmu.edu/Commit%20log/content/Commit%20Log-Qiu.md)
 
-[XZX]()
+[XZX](https://github.com/3checktheerror/spookify/blob/master/Wiki/org.xmu.edu/Commit%20log/content/Commit%20Log-Xu.md)
 
-[LC]()
+[LC](https://github.com/3checktheerror/spookify/blob/master/Wiki/org.xmu.edu/Commit%20log/content/Commit%20Log-Liu.md)
 
-[ZZW]()
+[ZZW](https://github.com/3checktheerror/spookify/blob/master/Wiki/org.xmu.edu/Commit%20log/content/Commit%20Log-Zhou.md)
 
-[LXD]()
+[LXD](https://github.com/3checktheerror/spookify/blob/master/Wiki/org.xmu.edu/Commit%20log/content/Commit%20Log-Luo.md)
 
