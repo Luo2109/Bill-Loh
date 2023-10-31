@@ -27,7 +27,9 @@
 
    [SpringCloud]()：也是Spring生态中的重要组成，用于微服务架构的快速搭建
 
-   [Docker](https://learn.lianglianglee.com/%E4%B8%93%E6%A0%8F/%E7%94%B1%E6%B5%85%E5%85%A5%E6%B7%B1%E5%90%83%E9%80%8F%20Docker-%E5%AE%8C)：推荐下载[Docker Desktop for Window](https://www.docker.com/products/docker-desktop/)，用于持续集成和部署。以后的数据库、消息队列都下载到Docker中。Docker极其轻量化，真香
+   [Docker](https://learn.lianglianglee.com/%E4%B8%93%E6%A0%8F/%E7%94%B1%E6%B5%85%E5%85%A5%E6%B7%B1%E5%90%83%E9%80%8F%20Docker-%E5%AE%8C)：推荐下载[Docker Desktop for Window](https://www.docker.com/products/docker-desktop/)，用于持续集成和部署。以后的数据库、消息队列都下载到Docker中。Docker极其轻量化，真香（下面是我本机Docker上的4台nacos和2个MySQL数据库）
+
+   ![image-20231031091542274](README.assets/image-20231031091542274.png)
 
 4. 其他
 
@@ -35,9 +37,11 @@
 
    上述所有步骤本人均试过，能够正常跑起来。有任何疑问，欢迎咨询QJY。
 
+   最后祝大家成功！！！
+
    
 
    <img src="README.assets/image-20231031090703069.png" alt="image-20231031090703069" style="zoom: 25%;" />
-
+   
    
 
